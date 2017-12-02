@@ -20,9 +20,29 @@ $ osascript scripts/app/get-bounds.applescript Safari
 $ osascript scripts/app/hide.applescript Safari
 ```
 
+**Check if application is hidden**
+
+```sh
+$ osascript scripts/app/is-hidden.applescript Safari
+```
+
+
+**Check if application is miniaturized (minimized)**
+
+```sh
+$ osascript scripts/app/is-mini.applescript Safari
+```
+
+
+**Check if application is running**
+
+```sh
+$ osascript scripts/app/is-running.applescript Safari
+```
+
 ### → Scripting MacOS
 
-_Need help._
+_Help wanted._
 
 
 ### → Scripting Chrome
@@ -36,7 +56,35 @@ $ osascript scripts/chrome/open-url.applescript https://news.ycombinator.com/
 
 ### → Scripting Reminders
 
-_Need help._
+**Get reminders in list**
+
+```sh
+$ osascript scripts/reminders/get-reminders-in-list.applescript "Today"
+```
+
+**Get all lists**
+
+```sh
+$ osascript scripts/reminders/get-lists.applescript
+```
+
+**Hide the sidebar**
+
+```sh
+$ osascript scripts/reminders/hide-sidebar.applescript Safari
+```
+
+**Switch to a different list**
+
+```sh
+$ osascript scripts/reminders/switch-list.applescript "Grocery List"
+```
+
+**Count a list**
+
+```sh
+$ osascript scripts/reminders/count-list.applescript "Grocery List"
+```
 
 
 ### License
