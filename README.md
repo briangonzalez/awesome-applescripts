@@ -10,10 +10,9 @@
 
 **Get Bounds**
 
-<details>
-  <pre>$ osascript scripts/app/get-bounds.applescript Safari</pre>
-</details>
-
+```sh
+$ osascript scripts/app/get-bounds.applescript Safari
+```
 
 ### → Scripting MacOS
 
@@ -24,7 +23,7 @@ _Need help._
 
 **Open a URL**
 
-```
+```sh
 $ osascript scripts/chrome/open-url.applescript https://news.ycombinator.com/</pre>
 ```
 
