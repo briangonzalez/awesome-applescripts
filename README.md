@@ -22,9 +22,11 @@ _Need help._
 
 Open a URL in chrome.
 
-```sh
-$ osascript scripts/open-chrome.applescript https://news.ycombinator.com/
-```
+<details>
+  ```sh
+  $ osascript scripts/open-chrome.applescript https://news.ycombinator.com/
+  ```
+</details>
 
 
 ### Reminders
