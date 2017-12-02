@@ -6,6 +6,11 @@
   A collection of awesome, useful, no-so-obvious applescripts.
 </blockquote>
 
+- [Scripting Applications](#-scripting-applications)
+- [Scripting macOS](#-scripting-macos)
+- [Scripting Chrome](#-scripting-chrome)
+- [Scripting Reminders](#-scripting-reminders)
+
 ### → Scripting Applications
 
 **Get bounds of application window**
