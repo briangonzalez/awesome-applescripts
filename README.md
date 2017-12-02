@@ -6,7 +6,7 @@
 
 > A collection of awesome, useful, no-so-obvious applescripts.
 
-### Applications
+### → Scripting Applications
 
 **Get Bounds**
 
@@ -15,12 +15,12 @@
 </details>
 
 
-### MacOS
+### → Scripting MacOS
 
 _Need help._
 
 
-### Chrome
+### → Scripting Chrome
 
 **Open a URL**
 
@@ -29,7 +29,7 @@ _Need help._
 </details>
 
 
-### Reminders
+### → Scripting Reminders
 
 _Need help._
 
