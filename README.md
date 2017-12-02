@@ -8,7 +8,11 @@
 
 ### Applications
 
-_Need help._
+**Get Bounds**
+
+<details>
+  <pre>$ osascript scripts/app/get-bounds.applescript Safari</pre>
+</details>
 
 
 ### MacOS
@@ -18,10 +22,10 @@ _Need help._
 
 ### Chrome
 
-_Open a URL_
+**Open a URL**
 
 <details>
-  <pre>$ osascript scripts/open-chrome.applescript https://news.ycombinator.com/</pre>
+  <pre>$ osascript scripts/chrome/open-url.applescript https://news.ycombinator.com/</pre>
 </details>
 
 
