@@ -8,10 +8,16 @@
 
 ### → Scripting Applications
 
-**Get Bounds**
+**Get bounds of application window**
 
 ```sh
 $ osascript scripts/app/get-bounds.applescript Safari
+```
+
+**Hide application**
+
+```sh
+$ osascript scripts/app/hide.applescript Safari
 ```
 
 ### → Scripting MacOS
