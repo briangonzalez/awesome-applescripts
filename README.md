@@ -24,7 +24,7 @@ _Need help._
 **Open a URL**
 
 ```sh
-$ osascript scripts/chrome/open-url.applescript https://news.ycombinator.com/</pre>
+$ osascript scripts/chrome/open-url.applescript https://news.ycombinator.com/
 ```
 
 
