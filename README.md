@@ -6,6 +6,7 @@
   A collection of awesome, useful, no-so-obvious applescripts.
 </blockquote>
 
+### Table of Contents
 - [Scripting Applications](#-scripting-applications)
 - [Scripting macOS](#-scripting-macos)
 - [Scripting Chrome](#-scripting-chrome)
