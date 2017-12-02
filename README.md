@@ -54,7 +54,7 @@ _Help wanted._
 
 ### → Scripting Chrome
 
-**Open a URL**
+**Open (or highlight tab if already open) a URL**
 
 ```sh
 $ osascript scripts/chrome/open-url.applescript https://news.ycombinator.com/
