@@ -18,14 +18,10 @@ _Need help._
 
 ### Chrome
 
-#### `open-chrome.applescript`
-
-Open a URL in chrome.
+_Open a URL_
 
 <details>
-  ```sh
-  $ osascript scripts/open-chrome.applescript https://news.ycombinator.com/
-  ```
+  <pre>$ osascript scripts/open-chrome.applescript https://news.ycombinator.com/</pre>
 </details>
 
 
