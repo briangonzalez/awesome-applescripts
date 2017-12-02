@@ -24,9 +24,9 @@ _Need help._
 
 **Open a URL**
 
-<details>
-  <pre>$ osascript scripts/chrome/open-url.applescript https://news.ycombinator.com/</pre>
-</details>
+```
+$ osascript scripts/chrome/open-url.applescript https://news.ycombinator.com/</pre>
+```
 
 
 ### → Scripting Reminders
