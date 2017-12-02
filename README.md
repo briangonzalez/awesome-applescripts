@@ -6,19 +6,19 @@
 
 > A collection of awesome, useful, no-so-obvious applescripts.
 
-## Applications
+### Applications
 
 _Need help._
 
 
-## MacOS
+### MacOS
 
 _Need help._
 
 
-## Chrome
+### Chrome
 
-### `open-chrome.applescript`
+#### `open-chrome.applescript`
 
 Open a URL in chrome.
 
@@ -27,11 +27,11 @@ $ osascript scripts/open-chrome.applescript https://news.ycombinator.com/
 ```
 
 
-## Reminders
+### Reminders
 
 _Need help._
 
 
-## License
+### License
 
 MIT
