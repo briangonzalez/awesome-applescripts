@@ -7,6 +7,7 @@
 </blockquote>
 
 ### Table of Contents
+
 - [Scripting Applications](#-scripting-applications)
 - [Scripting macOS](#-scripting-macos)
 - [Scripting Chrome](#-scripting-chrome)
