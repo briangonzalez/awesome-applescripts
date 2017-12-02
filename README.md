@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="sparkles" src="https://user-images.githubusercontent.com/659829/31784135-7f48b70a-b4b5-11e7-9849-7626098460d0.png" width=200>
+  <img alt="sparkles" src="https://user-images.githubusercontent.com/659829/33517575-84f0203c-d73b-11e7-9459-fe8f53f6f3da.png" width=200>
 </p>
 
 ## awesome-applescripts
