@@ -1,10 +1,10 @@
 <p align="center">
   <img alt="sparkles" src="https://user-images.githubusercontent.com/659829/33517575-84f0203c-d73b-11e7-9459-fe8f53f6f3da.png" width=200>
-  <h1>awesome-applescripts</h1>
-  <blockquote>
-    A collection of awesome, useful, no-so-obvious applescripts.
-  </blockquote>
 </p>
+<h1 align="center">awesome-applescripts</h1>
+<blockquote align="center">
+  A collection of awesome, useful, no-so-obvious applescripts.
+</blockquote>
 
 ### → Scripting Applications
 
