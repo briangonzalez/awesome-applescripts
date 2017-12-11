@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">awesome-applescripts</h1>
 <blockquote align="center">
-  A collection of awesome, useful, no-so-obvious applescripts.
+  A collection of awesome, useful, not-so-obvious applescripts.
 </blockquote>
 
 ### Table of Contents
